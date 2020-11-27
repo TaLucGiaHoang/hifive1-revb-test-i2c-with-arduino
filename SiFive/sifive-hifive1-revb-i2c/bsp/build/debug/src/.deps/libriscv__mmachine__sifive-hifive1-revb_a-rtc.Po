@@ -1,0 +1,115 @@
+src/libriscv__mmachine__sifive-hifive1-revb_a-rtc.o: \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/src/rtc.c \
+ metal/machine.h metal/machine/platform.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/fixed-clock.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/compiler.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/clock.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/memory.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\stdint.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\machine\_default_types.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\features.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\_newlib_version.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\_intsup.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\_stdint.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_clint0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_cpu.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/cpu.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/interrupt.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_plic0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/pmp.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_gpio0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/gpio.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/led.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_rtc0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/io.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/rtc.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_spi0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/spi.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_uart0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/uart.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_wdog0.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/watchdog.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h
+
+metal/machine.h:
+
+metal/machine/platform.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/fixed-clock.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/compiler.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/clock.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/memory.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stdint.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\stdint.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\machine\_default_types.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\features.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\_newlib_version.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\_intsup.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\riscv64-unknown-elf\include\sys\_stdint.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_clint0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_cpu.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/cpu.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/interrupt.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/riscv_plic0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/pmp.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/gpio.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/led.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/io.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/rtc.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_spi0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/spi.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_uart0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/uart.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/watchdog.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:

@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/gloss/sys_exit.c \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/shutdown.h
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/shutdown.h:

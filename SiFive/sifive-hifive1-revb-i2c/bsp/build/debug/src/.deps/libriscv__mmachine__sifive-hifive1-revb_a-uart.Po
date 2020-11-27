@@ -1,0 +1,11 @@
+src/libriscv__mmachine__sifive-hifive1-revb_a-uart.o: \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/src/uart.c \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/uart.h \
+ E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/interrupt.h \
+ e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/uart.h:
+
+E:/8.AWS-FreeRTOS-HiFive1/Workspace/sifive-hifive1-revb-i2c/freedom-metal/metal/interrupt.h:
+
+e:\freedomstudio-2019-08-2-win64\sifive\riscv64-unknown-elf-gcc-8.3.0-2019.08.0\lib\gcc\riscv64-unknown-elf\8.3.0\include\stddef.h:
