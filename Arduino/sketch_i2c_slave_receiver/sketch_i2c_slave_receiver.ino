@@ -16,7 +16,7 @@ void setup() {
   Wire.begin(8);                // join i2c bus with address #8
   Wire.onReceive(receiveEvent); // register event
   Serial.begin(115200);           // start serial for output
-  Serial.println("Arduino i2c slave receiver");
+  Serial.println("I2C Slave Receiver - addr:0x08, baud:100000(Hz)");
 }
 
 void loop() {
