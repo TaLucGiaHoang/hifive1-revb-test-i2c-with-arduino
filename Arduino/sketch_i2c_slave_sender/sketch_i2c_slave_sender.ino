@@ -16,11 +16,10 @@ void setup() {
   Wire.begin(8);                // join i2c bus with address #8
   Wire.onRequest(requestEvent); // register event
   Serial.begin(115200);
-  Serial.println("I2C Slave Sender");
+  Serial.println("I2C Slave Sender 100000(Hz)");
 }
 
 void loop() {
-  Wire.write("123456");
   delay(100);
 }
 
@@ -28,6 +27,5 @@ void loop() {
 // this function is registered as an event, see setup()
 void requestEvent() {
   Wire.write("hello "); // respond with message of 6 bytes
-  Serial.println("send to master");
   // as expected by master
 }

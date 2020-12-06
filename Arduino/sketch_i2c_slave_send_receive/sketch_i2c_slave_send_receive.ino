@@ -17,7 +17,7 @@ void setup() {
   Wire.onRequest(requestEvent); // register event when master request to send 
   Wire.onReceive(receiveEvent); // register event when arduino receives
   Serial.begin(115200);         // start serial for output
-  Serial.println("I2C Slave Sender + Receiver");
+  Serial.println("I2C Slave Sender + Receiver - addr:0x08, baud:100000(Hz)");
 }
 
 void loop() {
@@ -29,7 +29,7 @@ void loop() {
 // this function is registered as an event, see setup()
 void requestEvent() {
   Wire.write("hello "); // respond with message of 6 bytes
-  Serial.println("send to master");
+  //Serial.println("send to master"); // debug only, print in even handler can miss data
   // as expected by master
 }
 
